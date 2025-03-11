@@ -425,3 +425,4 @@ ANSWERS
  ○ Understanding trends can inform your software's features, pricing, and marketing strategy.
 
  ○ It can help you to anticipate future changes in the market and adapt your software accordingly.
+
